@@ -1,6 +1,8 @@
 # Coveo extension manager
 Manages and helps test pipeline extensions. With this extension, you can quickly add an extension from an existing gallery that gets updated then test it right after with any document avaible in the organization. This improves how quickly one can test extensions and find mistakes.
 
+You can find the extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/tester-for-indexing-pipel/gbaapjhekfgfnjkijijdfkllbfhobieb).
+
 ## Description
 This extension has 2 parts to it:
 1. The extensions gallery
